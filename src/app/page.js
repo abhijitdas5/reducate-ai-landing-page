@@ -171,7 +171,7 @@ export default function Home() {
               “Amazing learning platform. The mentorship helped me get my first internship.”
             </p>
             <h4 className="font-bold text-cyan-400">
-              Rahul Sharma
+              Abhijit Das
             </h4>
           </motion.div>
 
